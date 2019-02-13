@@ -19,6 +19,6 @@ youripaddress
 
 Step 4 Run the playbook
 
-git clone https://github.com/kolomyya/r1soft-ansible
+git clone https://github.com/kolomyya/R1Soft-Agent.git
 cd r1soft-ansible
 ansible-playbook -i hosts r1soft.yml
